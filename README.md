@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DINESH
-- 👀 I’m interested in CODING 
-- 🌱 I’m currently learning WEB DEVELOPMENT 
+- 👀 I’m interested in CODING  
 - 💞️ I’m looking to LEARN SOME NEW THINGS AND REVIEW THE PROJECTS
 - 📫 can u reach using mail
 
